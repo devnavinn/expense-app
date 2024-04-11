@@ -24,4 +24,7 @@ Welcome to the Expense Tracker App! This web application helps users track their
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:neo062/expense-app.git
+
+   cd expense-tracker-app
+   npm install
